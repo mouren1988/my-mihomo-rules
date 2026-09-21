@@ -1,0 +1,5 @@
+PROCESS-NAME,STOVE.exe
+PROCESS-NAME,StoveCefHelper.exe
+PROCESS-NAME,STOVEUpdater.exe
+PROCESS-NAME,stove_watchdog.exe
+PROCESS-NAME,LauncherService.exe
