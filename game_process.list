@@ -4,6 +4,8 @@ PROCESS-NAME,Purple.exe
 PROCESS-NAME,purple-agent.exe
 PROCESS-NAME,CefSharp.BrowserSubprocess.exe
 PROCESS-NAME,PurpleBox.exe
+PROCESS-NAME,purpleonp.exe
+
 # aion2
 PROCESS-NAME,Aion2.exe
 PROCESS-NAME,PurpleBox.exe
