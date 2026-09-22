@@ -57,12 +57,5 @@ PROCESS-NAME,LauncherServiceMessage.exe
 PROCESS-NAME,StoveCefHelper.exe
 # 日蚀
 PROCESS-NAME,EclipseTheAwakening.exe
-PROCESS-NAME,crashpad_handler.exe
 PROCESS-NAME,EclipseTheAwakening-Win64-Shipping.exe
 PROCESS-NAME,vc_redist.arm64.exe
-PROCESS-NAME,vc_redist.x64.exe
-PROCESS-NAME,CrashReportClient.exe
-PROCESS-NAME,EpicWebHelper.exe
-
-
-
