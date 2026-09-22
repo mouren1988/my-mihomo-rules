@@ -1,3 +1,15 @@
+# NC Purple
+PROCESS-NAME,PurpleLauncher.exe
+PROCESS-NAME,Purple.exe
+PROCESS-NAME,purple-agent.exe
+PROCESS-NAME,CefSharp.BrowserSubprocess.exe
+PROCESS-NAME,PurpleBox.exe
+# aion2
+PROCESS-NAME,Aion2.exe
+PROCESS-NAME,PurpleBox.exe
+PROCESS-NAME,NCOverlayCefweb32.exe
+
+# STOVE
 PROCESS-NAME,STOVE.exe
 PROCESS-NAME,StoveCefHelper.exe
 PROCESS-NAME,STOVEUpdater.exe
