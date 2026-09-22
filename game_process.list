@@ -28,6 +28,15 @@ PROCESS-NAME,CrashReportClient.exe
 PROCESS-NAME,CrashReportClientEditor.exe
 PROCESS-NAME,EpicWebHelper.exe
 PROCESS-NAME,Aion2.exe
+# Aion重制版
+PROCESS-NAME,ncdiagS32.exe
+PROCESS-NAME,ncdiagS64.exe
+PROCESS-NAME,SendLogClient.exe
+PROCESS-NAME,aioncefprocess.exe
+PROCESS-NAME,AwesomiumProcess.exe
+PROCESS-NAME,AionCefProcess.exe
+PROCESS-NAME,wow_helper.exe
+PROCESS-NAME,Aion.bin
 
 ### STOVE 平台
 PROCESS-NAME,7za.exe
