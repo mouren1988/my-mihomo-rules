@@ -37,7 +37,7 @@ payload:
   - '+.mozilla.net'
   - '+.firefox.com'
   - '+.njmapp.com'            # 腾讯系后台遥测与日志服务
-
+  - '+.qq.com' 
   # # 真人验证域名
   # # Cloudflare 人机验证与挑战页面
   # - '+.challenges.cloudflare.com'
