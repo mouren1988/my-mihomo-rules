@@ -1,6 +1,5 @@
 name: Build MRS Rules
 
-# 触发条件：当你修改了 yaml 文件夹下的任何文件，或者手动点击运行
 on:
   push:
     paths:
@@ -11,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 必须赋予写入权限，以便把 MRS 提交回仓库
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -19,8 +18,11 @@ jobs:
 
       - name: Setup Mihomo
         run: |
-          # 下载最新的 Mihomo Linux 内核
-          wget -O mihomo.gz https://github.com/MetaCubeX/mihomo/releases/download/v1.18.3/mihomo-linux-amd64-v1.18.3.gz
+          # 自动请求 Github API 获取 Mihomo 的最新稳定版 Tag
+          LATEST_TAG=$(curl -s https://api.github.com/repos/MetaCubeX/mihomo/releases/latest | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/')
+          echo "已获取最新内核版本: $LATEST_TAG"
+          # 下载对应的最新版内核
+          wget -O mihomo.gz "https://github.com/MetaCubeX/mihomo/releases/download/${LATEST_TAG}/mihomo-linux-amd64-${LATEST_TAG}.gz"
           gzip -d mihomo.gz
           chmod +x mihomo
           sudo mv mihomo /usr/local/bin/
@@ -28,12 +30,14 @@ jobs:
       - name: Compile YAML to MRS
         run: |
           echo "开始转换规则..."
-          # 遍历 yaml 文件夹下所有的 .yaml 文件
           for file in yaml/*.yaml; do
             if [ -f "$file" ]; then
               filename=$(basename "$file" .yaml)
               echo "正在编译: $filename.yaml -> $filename.mrs"
-              # 调用 mihomo 内核进行转换，输出到根目录
+              
+              # ⚠️ 核心审查提示：
+              # 如果你的 yaml 里写的是 payload: 加 '+.google.com'，就用 domain
+              # 如果你的 yaml 里写的是 payload: 加 'DOMAIN-SUFFIX,google.com'，请把下面的 domain 改成 classic
               mihomo convert-ruleset domain yaml "$file" "$filename.mrs"
             fi
           done
@@ -42,14 +46,10 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
-          # 将生成的 mrs 文件添加到暂存区
           git add *.mrs
-          
-          # 如果有改动才提交
           if ! git diff --staged --quiet; then
             git commit -m "Auto compile MRS rules [skip ci]"
             git push
           else
-            echo "MRS rules are up to date, nothing to commit."
+            echo "规则无变化，跳过提交。"
           fi
