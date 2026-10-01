@@ -1,0 +1,47 @@
+payload:
+  # NCSoft (AION 2, 剑灵, 天堂系列)
+  - '+.nc.com'
+  - '+.plaync.com'
+  - '+.ncsoft.com'
+  - '+.playnccdn.com'
+  - '+.game.ncupdate.com'
+  - '+.gs-purple.ncupdate.com'
+  - '+.up4svr.ncupdate.com'
+  - '+.mobile.ncupdate.com'
+  - '+.live-upsvr.ncupdate.com'
+  - '+.global-mobile.ncupdate.com'
+  - '+.gs-purple.download.ncupdate.com'
+  
+  # 其他韩国游戏与平台
+  # Nexon
+  - '+.nexon.com'
+  # Kakao
+  - '+.kakaogames.com'
+  # Wemade (娱美德)
+  - '+.wemade.com'
+  # Netmarble (网石)
+  - '+.netmarble.net'
+  # 宙斯
+  - '+.com2us.com'
+  - '+.qpyou.cn'
+  # 日蚀
+  - '+.cloudfront.net'
+  - '+.81plug.com'
+  - '+.amplitude.com'
+  - '+.ifconfig.me'
+  - '+.api.ipify.org'
+  - '+.gum.criteo.com'
+  - '+.criteo.com'
+  - '+.criteo.net'
+  - '+.voisetech.com'
+  - '+.admaster.cc'
+  - '+.sginfra.net'
+  - '+.opera.com'
+  - '+.adkernel.com'
+  - '+.naver.com'
+  - '+.pstatic.net'
+  - '+.addthis.com'
+  - '+.innovid.com'
+  - '+.blismedia.com'
+  - '+.mookie1.com'
+  - '+.onstove.com'

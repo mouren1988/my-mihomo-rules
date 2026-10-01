@@ -1,0 +1,45 @@
+payload:
+  # 自定义直连域名
+  - '+.igame.plus'
+  - '+.aicn.plus'
+  - '+.631518.xyz'
+  # 显卡驱动与硬件服务
+  - '+.nvidia.cn'
+  - '+.nvidia.com'
+  - '+.amd.com'
+  - '+.intel.com'
+  - '+.fsend.cn'              # 测速或文件快传CDN
+
+  # 微软全家桶与系统更新 (Windows / Office 365)
+  - '+.microsoft.com'
+  - '+.windows.com'
+  - '+.windows.net'
+  - '+.windowsupdate.com'
+  - '+.office365.com'
+  - '+.microsoftonline.com'
+  - '+.live.com'
+  - '+.azure.cn'
+  - '+.cn.bing.com'
+  - '+.msauth.net'
+  - '+.msn.com'
+  - '+.sfx.ms'
+  - '+.office.com'
+
+  # 苹果基础服务与商店 CDN (Apple)
+  - '+.mzstatic.com'
+  - '+.aaplimg.com'
+  - '+.me.com'
+
+  - '+.adtidy.org'            # AdGuard 规则下载
+  - '+.eset.com'              # eset杀毒
+  - '+.eset.systems'
+  - '+.mozilla.com'           # 火狐
+  - '+.mozilla.net'
+  - '+.firefox.com'
+  - '+.njmapp.com'            # 腾讯系后台遥测与日志服务
+
+  # # 真人验证域名
+  # # Cloudflare 人机验证与挑战页面
+  # - '+.challenges.cloudflare.com'
+  # # 亚马逊CDN
+  # - '+.cloudfront.net'
