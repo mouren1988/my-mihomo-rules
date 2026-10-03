@@ -6,7 +6,7 @@ payload:
   # 显卡驱动与硬件服务
   - '+.nvidia.cn'
   - '+.nvidia.com'
-  - '+.amd.com'
+  #- '+.amd.com'
   - '+.intel.com'
   - '+.fsend.cn'              # 测速或文件快传CDN
 
