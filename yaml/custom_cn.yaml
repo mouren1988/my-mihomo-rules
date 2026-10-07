@@ -1,8 +1,8 @@
 payload:
   # 自定义直连域名
-  - '+.igame.plus'
-  - '+.aicn.plus'
-  - '+.631518.xyz'
+  #- '+.igame.plus'
+  #- '+.aicn.plus'
+  #- '+.631518.xyz'
   # 显卡驱动与硬件服务
   - '+.nvidia.cn'
   - '+.nvidia.com'
