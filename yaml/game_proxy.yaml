@@ -1,6 +1,7 @@
 payload:
   # 自定义域名
   - '+.aicn.plus'
+  - '+.huaweicloud.com'
   # NCSoft (AION 2, 剑灵, 天堂系列)
   - '+.nc.com'
   - '+.plaync.com'
