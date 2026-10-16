@@ -59,3 +59,33 @@ PROCESS-NAME,StoveCefHelper.exe
 PROCESS-NAME,EclipseTheAwakening.exe
 PROCESS-NAME,EclipseTheAwakening-Win64-Shipping.exe
 PROCESS-NAME,vc_redist.arm64.exe
+
+# Google Play 游戏
+PROCESS-NAME,Applicator.26.10.90.0.exe
+PROCESS-NAME,Applicator.26.9.813.1.exe
+PROCESS-NAME,Bootstrapper.exe
+PROCESS-NAME,Uninstaller.exe
+PROCESS-NAME,GooglePlayGamesServices.exe
+PROCESS-NAME,GooglePlayGamesServicesOverlay.exe
+PROCESS-NAME,crashpad_handler.exe
+PROCESS-NAME,GooglePlayGamesServicesUninstaller.exe
+PROCESS-NAME,GooglePlayGamesServicesInstaller.exe
+PROCESS-NAME,client.exe
+PROCESS-NAME,bstrace.exe
+PROCESS-NAME,crashpad_handler.exe
+PROCESS-NAME,crosvm.exe
+PROCESS-NAME,gpu_memory_check.exe
+PROCESS-NAME,gpu_check.exe
+PROCESS-NAME,InstallHypervisor.exe
+PROCESS-NAME,nvapi.exe
+PROCESS-NAME,PlayPackageManager.exe
+PROCESS-NAME,Service.exe
+PROCESS-NAME,vulkaninfo.exe
+PROCESS-NAME,zucchini.exe
+# 鬼怪世界
+PROCESS-NAME,DKBI_Launcher.exe
+PROCESS-NAME,Square.exe
+PROCESS-NAME,Square_Indicator.exe
+PROCESS-NAME,dokkaebi.exe
+PROCESS-NAME,ucldr_DKBI_GL_loader_x64.exe
+PROCESS-NAME,UnityCrashHandler64.exe
