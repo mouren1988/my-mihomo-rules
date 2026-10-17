@@ -2,6 +2,10 @@ payload:
   # 反代
   - '+.wegame.com.sub.aicn.plus'
   - '+.wegame.com.api.aicn.plus'
+  # 国内网络检测
+  - '+.myip.ipip.net'
+  - '+.www.qualcomm.cn'
+  - '+.www.teamviewer.cn'
   # 游戏下载 CDN (直连提速)
   - '+.bilai.me'
   - '+.bilaix.com'
