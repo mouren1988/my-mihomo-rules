@@ -2,8 +2,6 @@ payload:
   # 反代
   - '+.wegame.com.sub.aicn.plus'
   - '+.wegame.com.api.aicn.plus'
-  # ip检测
-  - '+.cur-api2.shareai.pro'
   # 游戏下载 CDN (直连提速)
   - '+.bilai.me'
   - '+.bilaix.com'
