@@ -4,6 +4,8 @@ payload:
   - '+.huawei.com'
   - '+.huaweicloud.com'
   - '+.myhuaweicloud.com'
+  # ip检测
+  - '+.cur-api2.shareai.pro'
   # NCSoft (AION 2, 剑灵, 天堂系列)
   - '+.nc.com'
   - '+.plaync.com'
