@@ -4,7 +4,7 @@ payload:
   - '+.huawei.com'
   - '+.huaweicloud.com'
   - '+.myhuaweicloud.com'
-  # 网络检测 & 测速
+  # 国外网络检测 & 测速
   #- '+.ptclspeed.speedtestcustom.com'
   - '+.ip-api.com'
   - '+.get.geojs.io'
