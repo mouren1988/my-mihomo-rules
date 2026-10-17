@@ -8,12 +8,8 @@ payload:
   #- '+.ptclspeed.speedtestcustom.com'
   - '+.ip-api.com'
   - '+.get.geojs.io'
-  - '+.myip.ipip.net'
   - '+.ip.sb'
-  - '+.api.ip.sb'
-  - '+.www.qualcomm.cn'
-  - '+.www.teamviewer.cn'
-  - '+.www.ip138.com'
+  - '+.ip138.com'
   # NCSoft (AION 2, 剑灵, 天堂系列)
   - '+.nc.com'
   - '+.plaync.com'
