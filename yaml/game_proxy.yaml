@@ -4,8 +4,15 @@ payload:
   - '+.huawei.com'
   - '+.huaweicloud.com'
   - '+.myhuaweicloud.com'
-  # ip检测
-  - '+.cur-api2.shareai.pro'
+  # 网络检测 & 测速
+  - '+.ip-api.com'
+  - '+.get.geojs.io'
+  - '+.myip.ipip.net'
+  - '+.ip.sb'
+  - '+.api.ip.sb'
+  - '+.www.qualcomm.cn'
+  - '+.www.teamviewer.cn'
+  - '+.www.ip138.com'
   # NCSoft (AION 2, 剑灵, 天堂系列)
   - '+.nc.com'
   - '+.plaync.com'
