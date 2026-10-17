@@ -5,6 +5,7 @@ payload:
   - '+.huaweicloud.com'
   - '+.myhuaweicloud.com'
   # 网络检测 & 测速
+  #- '+.ptclspeed.speedtestcustom.com'
   - '+.ip-api.com'
   - '+.get.geojs.io'
   - '+.myip.ipip.net'
