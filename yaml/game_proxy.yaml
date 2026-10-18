@@ -1,6 +1,7 @@
 payload:
   # 自定义域名
   - '+.aicn.plus'
+  - '+.ayugram.one'
   - '+.huawei.com'
   - '+.huaweicloud.com'
   - '+.myhuaweicloud.com'
