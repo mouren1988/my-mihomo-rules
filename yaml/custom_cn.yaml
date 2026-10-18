@@ -11,7 +11,7 @@ payload:
   - '+.fsend.cn'              # 测速或文件快传CDN
 
   # 微软全家桶与系统更新 (Windows / Office 365)
-  - '+.microsoft.com'
+  #- '+.microsoft.com'
   - '+.windows.com'
   - '+.windows.net'
   - '+.windowsupdate.com'
