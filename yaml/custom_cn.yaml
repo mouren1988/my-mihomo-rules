@@ -1,6 +1,6 @@
 payload:
   # 自定义直连域名
-  - '+.v4.gh-proxy.org'
+  - '+.gh-proxy.org'
   #- '+.aicn.plus'
   #- '+.631518.xyz'
   # 显卡驱动与硬件服务
@@ -24,6 +24,7 @@ payload:
   - '+.msn.com'
   - '+.sfx.ms'
   - '+.office.com'
+  - '+.skype.com'
 
   # 苹果基础服务与商店 CDN (Apple)
   - '+.mzstatic.com'
