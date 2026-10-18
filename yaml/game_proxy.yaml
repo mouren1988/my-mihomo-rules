@@ -38,7 +38,7 @@ payload:
   - '+.kakao.com'
   - '+.daumcdn.net'
   - '+.daum.net'
-  - '+.edge.skype.com'
+  - '+.config.edge.skype.com'
   # Wemade (娱美德)
   - '+.wemade.com'
   # Netmarble (网石)
