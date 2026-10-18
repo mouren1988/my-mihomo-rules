@@ -15,25 +15,12 @@ payload:
   - '+.plaync.com'
   - '+.ncsoft.com'
   - '+.playnccdn.com'
-  - '+.game.ncupdate.com'
-  - '+.gs-purple.ncupdate.com'
-  - '+.up4svr.ncupdate.com'
-  - '+.mobile.ncupdate.com'
-  - '+.live-upsvr.ncupdate.com'
-  - '+.global-mobile.ncupdate.com'
+  - '+.ncupdate.com'
   
   # 其他韩国游戏与平台
   # Nexon
   - '+.nexon.com'
   # Kakao
-  - '+.stat.tiara.kakao.com'
-  - '+.accounts.kakao.com'
-  - '+.webid.ad.daum.net'
-  - '+.drip.kakaogames.com'
-  - '+.gc-openapi-zinny3.kakaogames.com'
-  - '+.gc-infodesk-zinny3.kakaogames.com'
-  - '+.gm-ls.kakaogames.com'
-  - '+.kauth.kakao.com'
   - '+.kakaogames.com'
   - '+.kakao.com'
   - '+.daumcdn.net'
