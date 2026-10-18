@@ -1,4 +1,4 @@
-PROCESS-NAME,msedgewebview2.exe
+#PROCESS-NAME,msedgewebview2.exe
 ### NC韩服 PURPLE
 PROCESS-NAME,Purple.exe
 PROCESS-NAME,PurpleLauncher.exe
