@@ -27,7 +27,9 @@ payload:
   - '+.nexon.com'
   # Kakao
   - '+.kakaogames.com'
+  - '+.kakao.com'
   - '+.daumcdn.net'
+  - '+.daum.net'
   # Wemade (娱美德)
   - '+.wemade.com'
   # Netmarble (网石)
