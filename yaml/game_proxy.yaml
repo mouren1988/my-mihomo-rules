@@ -26,6 +26,11 @@ payload:
   # Nexon
   - '+.nexon.com'
   # Kakao
+  - '+.accounts.kakao.com'
+  - '+.webid.ad.daum.net'
+  - '+.drip.kakaogames.com'
+  - '+.gc-openapi-zinny3.kakaogames.com'
+  - '+.gc-infodesk-zinny3.kakaogames.com'
   - '+.kakaogames.com'
   - '+.kakao.com'
   - '+.daumcdn.net'
