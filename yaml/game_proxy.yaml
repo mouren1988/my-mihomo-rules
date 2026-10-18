@@ -4,12 +4,20 @@ payload:
   - '+.huawei.com'
   - '+.huaweicloud.com'
   - '+.myhuaweicloud.com'
+  
   # 国外网络检测 & 测速
   #- '+.ptclspeed.speedtestcustom.com'
   - '+.ip-api.com'
   - '+.get.geojs.io'
   - '+.ip.sb'
   - '+.ip138.com'
+  - '+.ifconfig.me'
+  - '+.api.ipify.org'
+  
+  # 韩国通用门户 (Naver)
+  - '+.naver.com'
+  - '+.pstatic.net'
+  
   # NCSoft (AION 2, 剑灵, 天堂系列)
   - '+.nc.com'
   - '+.plaync.com'
@@ -33,24 +41,9 @@ payload:
   # 宙斯
   - '+.com2us.com'
   - '+.qpyou.cn'
-  # 日蚀
-  - '+.cloudfront.net'
-  - '+.81plug.com'
-  - '+.amplitude.com'
-  - '+.ifconfig.me'
-  - '+.api.ipify.org'
-  - '+.gum.criteo.com'
-  - '+.criteo.com'
-  - '+.criteo.net'
-  - '+.voisetech.com'
-  - '+.admaster.cc'
-  - '+.sginfra.net'
-  - '+.opera.com'
-  - '+.adkernel.com'
-  - '+.naver.com'
-  - '+.pstatic.net'
-  - '+.addthis.com'
-  - '+.innovid.com'
-  - '+.blismedia.com'
-  - '+.mookie1.com'
+  
+  # 日蚀 (Eclipse / Stove 平台核心)
   - '+.onstove.com'
+  - '+.playstove.com'
+  - '+.sginfra.net'
+  - '+.81plug.com'
