@@ -39,6 +39,7 @@ payload:
   - '+.daumcdn.net'
   - '+.daum.net'
   - '+.config.edge.skype.com'
+  - '+.edge.microsoft.com'
   # Wemade (娱美德)
   - '+.wemade.com'
   # Netmarble (网石)
