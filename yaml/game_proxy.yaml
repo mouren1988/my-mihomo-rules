@@ -31,6 +31,8 @@ payload:
   - '+.drip.kakaogames.com'
   - '+.gc-openapi-zinny3.kakaogames.com'
   - '+.gc-infodesk-zinny3.kakaogames.com'
+  - '+.gm-ls.kakaogames.com'
+  - '+.kauth.kakao.com'
   - '+.kakaogames.com'
   - '+.kakao.com'
   - '+.daumcdn.net'
