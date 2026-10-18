@@ -26,6 +26,7 @@ payload:
   # Nexon
   - '+.nexon.com'
   # Kakao
+  - '+.stat.tiara.kakao.com'
   - '+.accounts.kakao.com'
   - '+.webid.ad.daum.net'
   - '+.drip.kakaogames.com'
@@ -37,7 +38,7 @@ payload:
   - '+.kakao.com'
   - '+.daumcdn.net'
   - '+.daum.net'
-  #- '+.edge.skype.com'
+  - '+.edge.skype.com'
   # Wemade (娱美德)
   - '+.wemade.com'
   # Netmarble (网石)
