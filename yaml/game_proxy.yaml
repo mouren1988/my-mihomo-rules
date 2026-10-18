@@ -37,6 +37,7 @@ payload:
   - '+.kakaogames.com'
   - '+.kakao.com'
   - '+.daumcdn.net'
+  - '+.kakaocdn.net'
   - '+.daum.net'
   # Wemade (娱美德)
   - '+.wemade.com'
