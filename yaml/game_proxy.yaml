@@ -18,7 +18,9 @@ payload:
   # 韩国通用门户 (Naver)
   - '+.naver.com'
   - '+.pstatic.net'
-  
+  # 韩国支付
+  - '+.pstatic.net'
+  - '+.kakaopaycdn.com'
   # NCSoft (AION 2, 剑灵, 天堂系列)
   - '+.nc.com'
   - '+.plaync.com'
