@@ -14,6 +14,13 @@ payload:
   - '+.ip138.com'
   - '+.ifconfig.me'
   - '+.api.ipify.org'
+  - '+.ping0.cc'
+  - '+.ipinfo.io'
+  - '+.ipdata.co'
+  - '+.ipip.net'
+  - '+.whoer.net'
+  - '+.ipleak.net'
+  - '+.browserleaks.com'
   
   # 韩国通用门户 (Naver)
   - '+.naver.com'
