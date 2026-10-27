@@ -41,6 +41,8 @@ payload:
   # 其他韩国游戏与平台
   # Nexon
   - '+.nexon.com'
+  # Hangame
+  - '+.hangame.com'
   # Kakao
   - '+.kakaogames.com'
   - '+.kakao.com'
