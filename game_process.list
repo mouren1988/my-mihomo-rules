@@ -37,6 +37,16 @@ PROCESS-NAME,AwesomiumProcess.exe
 PROCESS-NAME,AionCefProcess.exe
 PROCESS-NAME,wow_helper.exe
 PROCESS-NAME,Aion.bin
+# 天堂1怀旧服
+PROCESS-NAME,LC.exe
+# 天堂2
+PROCESS-NAME,LineageII.exe
+PROCESS-NAME,AwesomiumProcess.exe
+PROCESS-NAME,awesomium_process.exe
+PROCESS-NAME,L2CefSubProcess.exe
+PROCESS-NAME,L2CrashSender.exe
+PROCESS-NAME,nclauncher.exe
+PROCESS-NAME,l2.bin
 
 ### STOVE 平台
 PROCESS-NAME,7za.exe
