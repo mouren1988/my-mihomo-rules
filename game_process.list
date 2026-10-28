@@ -1,27 +1,19 @@
 ### NC韩服 PURPLE
-PROCESS-NAME,Purple.exe
 PROCESS-NAME,PurpleLauncher.exe
 PROCESS-NAME,Uninstall.exe
-PROCESS-NAME,logReport_SA.exe
-PROCESS-NAME,purpleon.exe
-PROCESS-NAME,purpleonp.exe
-PROCESS-NAME,CefViewWing.exe
-PROCESS-NAME,NCCaptureInjector32.exe
-PROCESS-NAME,NCCaptureInjector64.exe
-PROCESS-NAME,NCCaptureOffsets32.exe
-PROCESS-NAME,NCCaptureOffsets64.exe
-PROCESS-NAME,PurpleStudio.exe
-PROCESS-NAME,PurpleStudioM.exe
-PROCESS-NAME,vc_redist.x64.exe
-PROCESS-NAME,PurpleBox.exe
 PROCESS-NAME,CefSharp.BrowserSubprocess.exe
+PROCESS-NAME,Purple.exe
+PROCESS-NAME,purple-agent.exe
 PROCESS-NAME,MediaRecorder.exe
 PROCESS-NAME,MediaRecorder2.exe
 PROCESS-NAME,NCOverlayAgent32.exe
 PROCESS-NAME,NCOverlayAgent64.exe
-PROCESS-NAME,purple-overlay.exe
 PROCESS-NAME,NCOverlayCefweb32.exe
-PROCESS-NAME,purple-agent.exe
+PROCESS-NAME,purple-overlay.exe
+PROCESS-NAME,PurpleBox.exe
+PROCESS-NAME,purpleonp.exe
+PROCESS-NAME,logReport_SA.exe
+PROCESS-NAME,purpleon.exe
 # Aion2
 PROCESS-NAME,UEPrereqSetup_x64.exe
 PROCESS-NAME,CrashReportClient.exe
@@ -29,13 +21,13 @@ PROCESS-NAME,CrashReportClientEditor.exe
 PROCESS-NAME,EpicWebHelper.exe
 PROCESS-NAME,Aion2.exe
 # Aion重制版
+PROCESS-NAME,AwesomiumProcess.exe
 PROCESS-NAME,ncdiagS32.exe
 PROCESS-NAME,ncdiagS64.exe
 PROCESS-NAME,SendLogClient.exe
-PROCESS-NAME,aioncefprocess.exe
-PROCESS-NAME,AwesomiumProcess.exe
 PROCESS-NAME,AionCefProcess.exe
 PROCESS-NAME,wow_helper.exe
+PROCESS-NAME,aioncefprocess.exe
 PROCESS-NAME,Aion.bin
 # 天堂1怀旧服
 PROCESS-NAME,LC.exe
@@ -47,6 +39,7 @@ PROCESS-NAME,L2CefSubProcess.exe
 PROCESS-NAME,L2CrashSender.exe
 PROCESS-NAME,nclauncher.exe
 PROCESS-NAME,l2.bin
+PROCESS-NAME,aegisty.bin
 
 ### STOVE 平台
 PROCESS-NAME,7za.exe
