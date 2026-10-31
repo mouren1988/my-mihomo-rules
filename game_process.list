@@ -85,6 +85,12 @@ PROCESS-NAME,PlayPackageManager.exe
 PROCESS-NAME,Service.exe
 PROCESS-NAME,vulkaninfo.exe
 PROCESS-NAME,zucchini.exe
+# Play 商店
+PROCESS-NAME,com.android.vending
+# Google Play 服务
+PROCESS-NAME,com.google.android.gms
+# Play Games
+PROCESS-NAME,com.google.android.play.games
 # 鬼怪世界
 PROCESS-NAME,DKBI_Launcher.exe
 PROCESS-NAME,Square.exe
@@ -92,3 +98,5 @@ PROCESS-NAME,Square_Indicator.exe
 PROCESS-NAME,dokkaebi.exe
 PROCESS-NAME,ucldr_DKBI_GL_loader_x64.exe
 PROCESS-NAME,UnityCrashHandler64.exe
+# 安卓包
+PROCESS-NAME,com.kakaogames.dokkaebi
